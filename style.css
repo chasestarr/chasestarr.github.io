@@ -1,0 +1,63 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    font-family: 'Lato', sans-serif;
+    font-size: 3em;
+    margin-bottom: 0;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+.subtitle{
+    font-family: 'Lato', sans-serif;
+
+}
+.kern-small{
+    margin-left: 3px;
+}
+.kern-med{
+    margin-left: 9px;
+}
+.kern-lrg{
+    margin-left: 18px;
+}
+#header{
+    width: 100%;
+    height: 300px; 
+}
+#header-content{
+    margin-left: 12%;
+    margin-top: 7.5%;
+    color: white;
+    z-index: 1;
+}
+#header-social{
+    margin-top:10px;
+    margin-left:0;
+}
+a.social:link{
+    color: white;
+    text-decoration: none;
+} 
+a.social:active{
+    color: white;
+    text-decoration: none;
+} 
+a.social:hover{
+    color: white;
+    text-decoration: underline;
+} 
+a.social:visited{
+    color: white;
+    text-decoration: none;
+}
+#canvasp{
+    position: absolute;
+    top: 25px;
+    left: 0;
+    z-index: -2;
+}
