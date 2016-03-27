@@ -70,6 +70,22 @@ a.social:visited{
     font-weight: 300;
     font-size: 2em;
 }
+a.post-link:link{
+    color: black;
+    text-decoration: underline;
+} 
+a.post-link:active{
+    color: black;
+    text-decoration: none;
+} 
+a.post-link:hover{
+    color: black;
+    text-decoration: underline;
+} 
+a.post-link:visited{
+    color: black;
+    text-decoration: none;
+}
 #canvasp{
     position: absolute;
     top: 25px;
