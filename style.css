@@ -60,10 +60,11 @@ a.social:visited{
 .post{
     width: 76%;
     margin-left: 12%;
+    margin-top: 3em;
 }
 .post-body{
     font-family: 'Vollkorn', serif;
-    font-size: 1.15em;
+    font-size: 1.25em;
 }
 .post-heading{
     font-family: 'Lato', sans-serif;
